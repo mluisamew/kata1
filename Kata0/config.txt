@@ -1,0 +1,13 @@
+Open the command line.
+Set your username:
+git config --global user.name "mluisamew"
+Set your email address:
+git config --global user.email "mluisamew@gmail.com"
+
+reiniciar git borrando repositorios anteriores:
+sudo rm -rf .git
+
+para ver los commit's (versiones) del repositorio:
+git log
+para salir del git:
+Q
